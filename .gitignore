@@ -1,0 +1,6 @@
+boston-school-explorer/
+.DS_Store
+**/__pycache__/
+**/tests/output/
+.env
+.env.*

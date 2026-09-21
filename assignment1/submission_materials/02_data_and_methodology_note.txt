@@ -1,0 +1,28 @@
+Boston School Facilities Explorer
+DATA & METHODOLOGY NOTE | SEPTEMBER 21, 2026
+
+Purpose and intended user
+The Boston School Facilities & Student Experience Explorer helps BPS capital planning and facilities staff identify school or campus records for closer review. Principals and community representatives are secondary users. Its purpose is to guide site visits and needs assessments, not to allocate funding automatically.
+
+Source and collection
+The dataset was downloaded from the Google spreadsheet linked on the official BPS Long-Term Facilities Planning page [1, 2]. The sheet states “Last Updated 11/8/2025”; this project accessed it on September 21, 2026. BPS combines administrative measures with facilities assessments. Its planning memo [3] explains that building walkthroughs, floor plans, and condition assessments informed the Building Experience Score. This project collected no new student responses.
+
+Coverage, variables, and periods
+The snapshot contains 118 school/campus records with distinct source codes, not necessarily 118 unique schools or buildings. The cleaned CSV contains names, codes, addresses, neighborhoods, grade groups, capacity (places), enrollment (students), building score (0-4), utilization (%), and chronic absenteeism (%). Higher scores indicate more support for the BPS educational-space framework. Utilization and absenteeism are five-year averages; component years are unspecified. Enrollment, capacity, and score reference dates are also unspecified. Percentages are stored as percentage points: 102 means 102%, not 1.02.
+
+Preparation and analysis
+The original CSV is preserved. The processing script standardizes numeric values, retains identifiers as strings and source row numbers, and treats blank or unavailable values as null. Three scores and two utilization values are missing. Capacity “371*” is unresolved: the cleaned numeric field is blank and capacity_status is qualified_value; the original retains the annotation. Campus records remain separate, and capacity is never summed. Filters update unweighted counts and percentages using valid records as denominators.
+
+Findings and practical use
+Of 115 scored records, 38 (33.0%) score 0-1. Of 116 utilization records, 42 (36.2%) exceed 100% historical average utilization. Both signals occur in 15 of 114 complete pairs. These project-defined screening rules support two actions: assess learning-space needs at lower-scoring sites, and verify current enrollment and room use where historical utilization is high. Confirm campus status and involve school communities before acting.
+
+Limitations and uncertainty
+The snapshot includes campuses that may have moved, merged, or closed. Shared facilities, rounded values, missing data, and mixed dates limit comparisons. Missing results are not zero. Student survey data were not reliably matched and are not included; absenteeism is not a proxy for student experience. Future survey integration must address nonresponse and privacy suppression. Descriptive patterns cannot prove causation, current overcrowding, overall school quality, or the benefits of a particular renovation.
+
+Sources (accessed September 21, 2026)
+1. BPS official publishing page
+https://www.bostonpublicschools.org/about-bps/capital-planning/ltfp/data
+2. BPS decision-making metrics spreadsheet
+https://docs.google.com/spreadsheets/d/1RF_ESvlj6yPa_asWnxC1i8vuiIHomR6c1kCVJ6wlumQ/edit?gid=387430590
+3. BPS facilities rubric and building models memo
+https://resources.finalsite.net/images/v1728696391/bostonpublicschoolsorg/xs6soln38fh8vphhgglu/finallongtermfacilitiesplanrubricandbuildingmodelsmemo.pdf

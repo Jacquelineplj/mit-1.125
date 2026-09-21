@@ -1,0 +1,9 @@
+SHORT REFLECTION: WHAT THE DATA SUPPORTS - AND WHAT IT CANNOT PROVE
+
+This project showed me that public facilities data are most useful as a starting point for asking better questions. The BPS snapshot supports descriptive comparisons of reported building scores and historical utilization. It identifies 15 of 114 complete records where a score of 0-1 coincides with utilization above 100%. That overlap gives planners a defensible reason to investigate those sites, while the separate measures help explain why a record deserves attention.
+
+However, identifying a need for review is different from proving which investment should come first. Five-year averages may hide recent changes, and the spreadsheet's update date is not the measurement date of every variable. Campus records are not equivalent to unique schools or buildings. A low facilities score does not establish poor teaching, low student satisfaction, or structural danger. Missing values indicate gaps in evidence, not necessarily poor conditions.
+
+Most importantly, this version cannot answer whether better facilities improve student belonging or safety. School-level survey results were not reliably matched, and even a correlation would not establish causation. Renovation costs and evidence about intervention effects are also absent, so the website cannot estimate returns on investment.
+
+I would therefore use the explorer to prioritize current site assessments and conversations with students and staff. Before recommending a specific project, I would verify current campus status, update room-use and enrollment information, and add comparable, privacy-protected student feedback. The main value is transparent evidence for follow-up, rather than an automatic ranking of schools.

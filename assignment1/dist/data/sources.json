@@ -1,0 +1,15 @@
+{
+  "publisher": "Boston Public Schools",
+  "title": "Decision-Making Metrics for BPS Long-Term Facilities Planning",
+  "sourceUrl": "https://docs.google.com/spreadsheets/d/1RF_ESvlj6yPa_asWnxC1i8vuiIHomR6c1kCVJ6wlumQ/edit?gid=387430590",
+  "landingUrl": "https://www.bostonpublicschools.org/about-bps/capital-planning/ltfp/data",
+  "sourceUpdatedLabel": "Last Updated 11/8/2025",
+  "sourceUpdated": "2025-11-08",
+  "accessed": "2026-09-21",
+  "unitOfObservation": "School / campus record as listed by BPS, not necessarily a unique school or building",
+  "measurementPeriod": "Mixed periods; utilization and absenteeism are five-year averages. Exact component years and enrollment/capacity reference dates are not specified in the CSV.",
+  "sha256": "f518d2951c96b18b4dbccc4cc3b0b5651c0c72d1b8a500836c15cc43855a4040",
+  "surveyIncluded": false,
+  "surveyNote": "The 2026 public survey page was reviewed. School-level results are linked through an interactive dashboard and PDF reports; a reliable bulk extract and campus crosswalk have not been verified. No survey data have been merged.",
+  "collection": "The project downloaded the official sheet as CSV. BPS describes assessing physical spaces for educational adequacy; Building Experience Scores draw on building walkthroughs, floor plans, and facilities assessments. The sheet also compiles administrative measures. Detailed collection protocols and reference dates for each administrative field are not specified in the CSV."
+}

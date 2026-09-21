@@ -1,0 +1,119 @@
+name,id,address,city,grades,level,neighborhood,capacity,utilization,score,enrollment,absenteeism,sourceRow,capacity_status
+Adams Elementary School,4361,165 Webster St.,"East Boston, MA 02128",K0-6,Elementary,East Boston,236.0,102.0,2.0,221.0,31.04,3,available
+Albert Holland School of Technology,1120,60 Washington St,"Dorchester, MA 02121",7-12,Secondary,Dorchester,688.0,61.0,4.0,528.0,41.26,4,available
+Alighieri Dante Montessori School,4321,37 Gove St.,"East Boston, MA 02128",K0-6,Elementary,East Boston,80.0,134.0,3.0,101.0,15.58,5,available
+Another Course to College,1230,612 Metropolitan Avenue.,"Hyde Park, MA 02136",9-12,Secondary,Hyde Park,392.0,63.0,2.0,243.0,64.98,6,available
+Baldwin Early Learning Pilot Academy,4621,121 Corey Rd.,"Brighton, MA 02135",K0-1,Elementary,Allston/Brighton,246.0,67.0,2.0,154.0,35.34,7,available
+Bates Elementary School,4081,426 Beech St.,"Roslindale, MA 02131",K0-6,Elementary,Roslindale,164.0,165.0,0.0,293.0,26.7,8,available
+Beethoven Elementary School,4030,5125 Washington St.,"West Roxbury, MA 02132",K1-2,Elementary,West Roxbury,237.0,115.0,4.0,276.0,29.12,9,available
+Blackstone Elementary School,4640,380 Shawmut Ave,"South End, MA 02118",K0-6,Elementary,South End,803.0,70.0,3.0,580.0,41.3,10,available
+Boston Adult Tech Academy,1215,20 Church Street,"Boston, MA 02116",11-12,Secondary,Downtown,117.0,141.0,1.0,125.0,73.48,11,available
+Boston Arts Academy,1420,174 Ipswich St,"Boston, MA 02215",9-12,Secondary,Fenway/Kenmore,500.0,99.0,4.0,499.0,40.48,12,available
+Boston Collaborative High School,1311,215 Dorchester St,"South Boston, MA 02127",9-12,Secondary,South Boston,506.0,42.0,1.0,295.0,72.24,13,available
+Boston Day-Evening Academy,1410,20 Kearsarge Ave,"Roxbury, MA 02119",9-12,Secondary,Roxbury,240.0,138.0,3.0,322.0,91.08,14,available
+Boston Green Academy,1470,20 Warren Street,"Brighton, MA 02135",7-12,Secondary,Allston/Brighton,546.0,84.0,3.0,452.0,47.74,15,available
+Boston International Newcomers Academy,1990,100 Maxwell St,"Dorchester, MA 02124",9-12,Secondary,Dorchester,618.0,77.0,1.0,429.0,38.68,16,available
+Boston Latin Academy,1020,205 Townsend St,"Boston, MA 02121",7-12,Secondary,Roxbury,1645.0,103.0,2.0,1677.0,21.82,17,available
+Boston Latin School,1010,78 Avenue Louis Pasteur.,"Boston, MA 02115",7-12,Secondary,Fenway/Kenmore,2154.0,112.0,4.0,2411.0,13.96,18,available
+Boston Teachers Union K-8 Pilot,4661,25 Walk Hill St,"Jamaica Plain, MA 02130",K1-8,Elementary,Mission Hill /Jamaica Plain,282.0,94.0,3.0,211.0,23.54,19,available
+Bradley Elementary School,4062,110 Beachview Rd,"East Boston, MA 02128",K0-6,Elementary,East Boston,297.0,99.0,2.0,296.0,17.74,20,available
+Brighton High School,1040,25 Warren St,"Brighton, MA 02135",7-12,Secondary,Allston/Brighton,1095.0,52.0,2.0,618.0,61.48,21,available
+Carter School,4261,396 Northampton St,"Boston, MA 02118",5-12,Secondary,Dorchester,60.0,57.0,,53.0,76.84,22,available
+Channing Elementary School,4201,35 Sunnyside St,"Hyde Park, MA 02136",K0-6,Elementary,Hyde Park,207.0,94.0,0.0,203.0,36.38,23,available
+Charlestown High School,1050,240 Medford St,"Charlestown, MA 02129",7-12,Secondary,Charlestown,1046.0,74.0,4.0,665.0,65.16,24,available
+Chittick Elementary School,4070,154 Ruskindale Rd,"Mattapan, MA 02136",K0-6,Elementary,Hyde Park,248.0,98.0,1.0,277.0,28.46,25,available
+Clap Elementary School,4531,35 Harvest St,"Dorchester, MA 02125",K0-6,Elementary,Dorchester,187.0,69.0,1.0,146.0,35.74,26,available
+Community Academy,1340,25 Glen Rd,"Jamaica Plain, MA 02130",9-12,Secondary,Mission Hill /Jamaica Plain,154.0,31.0,0.0,34.0,87.02,27,available
+Community Academy of Science and Health,1103,11 Charles St,"Dorchester, MA 02122",9-12,Secondary,Dorchester,692.0,53.0,4.0,379.0,54.92,28,available
+Condon K-8 School,4630,200 D St,"South Boston, MA 02127",K0-8,Elementary,South Boston,913.0,63.0,4.0,450.0,35.98,29,available
+Conley Elementary School,4080,450 Poplar St,"Roslindale, MA 02131",K0-6,Elementary,Roslindale,160.0,101.0,1.0,157.0,26.4,30,available
+Curley K-8 School,4272,40 Pershing Rd,"Jamaica Plain, MA 02130",K0-8,Elementary,Mission Hill /Jamaica Plain,780.0,119.0,2.0,959.0,28.16,31,available
+Dearborn 6-12 STEM Academy,1260,36 Winthrop St,"Roxbury, MA 02119",6-12,Secondary,Roxbury,600.0,95.0,4.0,571.0,40.16,32,available
+Dever Elementary School,4100,325 Mt Vernon St,"Dorchester, MA 02125",K1-6,Elementary,Dorchester,514.0,73.0,2.0,276.0,37.04,33,available
+Dudley Street Neighborhood Charter School,4123,6 Shirley St,"Roxbury, MA 02119",K1-5,Elementary,Roxbury,266.0,107.0,0.0,271.0,,34,available
+East Boston Early Education Center,4450,135 Gove St,"East Boston, MA 02128",K0-1,Elementary,East Boston,180.0,99.0,3.0,140.0,25.8,35,available
+East Boston High School,1070,86 White St,"East Boston, MA 02128",7-12,Secondary,East Boston,1234.0,100.0,3.0,1186.0,33.62,36,available
+Edison Elementary School,4178,60 Glenmont Rd,"Brighton, MA 02135",K1-6,Elementary,Allston/Brighton,741.0,72.0,2.0,457.0,34.0,37,available
+Eliot K-8 Innovation School - Intermediate,4381I,173 Salem Street,"North End, MA 02113",2-4,Elementary,Downtown,243.0,107.0,3.0,258.0,5.72,38,available
+Eliot K-8 Innovation School - Lower,4381L,16 Charter St,"North End, MA 02113",K0-1,Elementary,Downtown,168.0,138.0,1.0,258.0,5.72,39,available
+Eliot K-8 Innovation School - Upper,4381U,585 Commercial St,"North End, MA 02113",5-8,Elementary,Downtown,329.0,92.0,4.0,263.0,5.72,40,available
+Ellis Elementary School,4240,302 Walnut Ave,"Roxbury, MA 02119",K0-6,Elementary,Roxbury,377.0,97.0,1.0,421.0,42.58,41,available
+Ellison-Parks Early Education School,4440,108 Babson St,"Mattapan, MA 02126",K0-3,Elementary,Mattapan,227.0,82.0,3.0,182.0,26.5,42,available
+English High School,1080,144 McBride St,"Jamaica Plain, MA 02130",7-12,Secondary,Mission Hill /Jamaica Plain,965.0,68.0,4.0,669.0,59.96,43,available
+Everett Elementary School,4140,71 Pleasant St,"Dorchester, MA 02125",K0-6,Elementary,Dorchester,249.0,113.0,1.0,283.0,20.6,44,available
+Excel High School,1162,95 G St,"South Boston, MA 02127",9-12,Secondary,South Boston,644.0,53.0,1.0,90.0,63.16,45,available
+Fenway High School,1265,67 Alleghany Street,"Fenway, MA 02215",9-12,Secondary,Mission Hill /Jamaica Plain,408.0,91.0,3.0,357.0,37.12,46,available
+Gardner Pilot Academy,4160,30 Athol St,"Allston, MA 02134",K0-6,Elementary,Allston/Brighton,414.0,87.0,3.0,294.0,20.3,47,available
+Greater Egleston High School,1430,80 School St,"Roxbury, MA 02119",9-12,Secondary,Mission Hill /Jamaica Plain,166.0,48.0,1.0,59.0,97.54,48,available
+Greenwood Sarah K-8 School,4130,186 Glenway Street,"Dorchester, MA 02121",K1-8,Elementary,Dorchester,228.0,162.0,3.0,384.0,32.74,49,available
+Grew Elementary School,4200,40 Gordon Ave,"Hyde Park, MA 02136",K1-6,Elementary,Hyde Park,238.0,85.0,2.0,198.0,25.12,50,available
+Guild Elementary School,4061,195 Leyden St,"East Boston, MA 02128",K0-6,Elementary,East Boston,280.0,90.0,1.0,242.0,19.14,51,available
+Hale Elementary School,4113,51 Cedar St,"Roxbury, MA 02119",K1-6,Elementary,Roxbury,142.0,120.0,2.0,169.0,28.56,52,available
+Haley Pilot School,4210,570 Amer Legion Hwy,"Roslindale, MA 02131",K0-6,Elementary,Roslindale,398.0,93.0,2.0,354.0,24.64,53,available
+Harvard-Kent Elementary School,4280,50 Bunker Hill St,"Charlestown, MA 02129",K0-6,Elementary,Charlestown,450.0,75.0,4.0,316.0,20.26,54,available
+Haynes Early Education Center,4460,263 Blue Hill Ave,"Roxbury, MA 02119",K0-1,Elementary,Roxbury,212.0,89.0,4.0,191.0,33.64,55,available
+Henderson K-12 Inclusion School Lower,4391,1669 Dorchester Ave,"Dorchester, MA 02122",K0-1,Elementary,Dorchester,160.0,124.0,4.0,185.0,32.9,56,available
+Henderson K-12 Inclusion School Upper,1140,18 Croftland Ave,"Dorchester, MA 02124",2-12,Elementary/Secondary,Dorchester,640.0,103.0,3.0,603.0,34.78,57,available
+Hennigan Elementary School,4230,200 Heath St,"Jamaica Plain, MA 02130",K0-6,Elementary,Mission Hill /Jamaica Plain,587.0,81.0,2.0,362.0,36.06,58,available
+Hernandez Elementary School,4053,61 School St,"Roxbury, MA 02119",K1-6,Elementary,Roxbury,398.0,99.0,2.0,333.0,22.36,59,available
+Higginson Inclusion K0-2 School,4241,160 Harrishof Street,"Roxbury, MA 02119",K0-2,Elementary,Roxbury,96.0,149.0,1.0,162.0,47.56,60,available
+Higginson-Lewis 3-8 School,4242,131 Walnut Ave,"Roxbury, MA 02119",3-8,Elementary,Roxbury,316.0,64.0,1.0,246.0,42.0,61,available
+Holmes Elementary School,4084,40 School St,"Dorchester, MA 02124",K0-6,Elementary,Dorchester,329.0,86.0,1.0,303.0,45.36,62,available
+Horace Mann School for the Deaf Hard of Hearing (Shared with Warren Prescott),4610,28 Walker Street,"Boston, MA 02129",K0-12,Elementary,Charlestown,365.0,20.0,3.0,80.0,39.04,63,available
+Hurley K-8 School,4260,70 Worcester St,"South End, MA 02118",K0-8,Elementary,South End,408.0,86.0,1.0,339.0,27.98,64,available
+Josiah Quincy Upper School,1450,900 Washington Street,"Boston, MA 02116",6-12,Secondary,Downtown,650.0,85.0,4.0,577.0,30.42,65,available
+Kennedy Academy for Health Careers (12),1440,384 Warren St,"Roxbury, MA 02119",11-12,Secondary,Roxbury,,,2.0,87.0,,66,missing
+Kennedy Academy for Health Careers (9-11),1441,152 Arlington Street,"Boston, MA 02116",9-10,Secondary,Mission Hill /Jamaica Plain,,,,344.0,,67,missing
+Kennedy John F Elementary School,4270,7 Bolster St,"Jamaica Plain, MA 02130",K1-6,Elementary,Mission Hill /Jamaica Plain,403.0,93.0,2.0,366.0,26.92,68,available
+Kennedy Patrick J Elementary School,4541,343 Saratoga St,"East Boston, MA 02128",K0-6,Elementary,East Boston,186.0,146.0,3.0,286.0,21.24,69,available
+Kenny Elementary School,4390,19 Oakton Ave,"Dorchester, MA 02122",K0-6,Elementary,Dorchester,193.0,171.0,1.0,315.0,25.28,70,available
+Kilmer K-8 School (4-8),4033,140 Russett Rd,"West Roxbury, MA 02132",4-8,Elementary,West Roxbury,187.0,101.0,3.0,181.0,19.6,71,available
+Kilmer K-8 School (K-3),4031,35 Baker St,"West Roxbury, MA 02132",K0-3,Elementary,West Roxbury,170.0,121.0,2.0,212.0,19.6,72,available
+King School,4055,77 Lawrence Ave,"Dorchester, MA 02121",K0-6,Elementary,Roxbury,437.0,110.0,3.0,454.0,43.06,73,available
+Lee Academy,4291,25 Dunbar Av,"Dorchester, MA 02124",K0-3,Elementary,Dorchester,167.0,116.0,2.0,201.0,36.88,74,available
+Lee K-8 School,4290,155 Talbot Ave,"Dorchester, MA 02124",K0-8,Elementary,Dorchester,651.0,85.0,3.0,586.0,36.66,75,available
+Lyndon K-8 School,4331,20 Mt Vernon St,"West Roxbury, MA 02132",K1-8,Elementary,West Roxbury,418.0,135.0,2.0,524.0,12.56,76,available
+Lyon High School,1171,95 Beechcroft St,"Brighton, MA 02135",9-12,Secondary,Allston/Brighton,307.0,33.0,0.0,27.0,45.64,77,available
+Lyon K-8 School,4171,50 Beechcroft St,"Brighton, MA 02135",K2-8,Elementary,Allston/Brighton,108.0,117.0,2.0,129.0,25.4,78,available
+Madison Park Technical Vocational High School,1210,75 Malcolm X Blvd,"Roxbury, MA 02120",9-12,Secondary,Roxbury,1348.0,81.0,2.0,1017.0,57.48,79,available
+Manning Elementary School,4311,130 Louders Lane,"Jamaica Plain, MA 02130",K0-6,Elementary,Mission Hill /Jamaica Plain,174.0,92.0,2.0,150.0,18.36,80,available
+Margarita Muñiz Academy,1053,20 Child St,"Jamaica Plain, MA 02130",9-12,Secondary,Mission Hill /Jamaica Plain,,100.0,3.0,484.0,45.08,81,qualified_value
+Mario Umana Academy,4323,312 Border St,"East Boston, MA 02128",K0-8,Elementary,East Boston,492.0,127.0,4.0,590.0,24.04,82,available
+Mason Elementary School,4121,150 Norfolk Ave,"Roxbury, MA 02119",K0-5,Elementary,Roxbury,215.0,94.0,1.0,230.0,24.68,83,available
+Mather Elementary School,4350,24 Parish St,"Dorchester, MA 02122",K1-6,Elementary,Dorchester,430.0,111.0,2.0,483.0,29.12,84,available
+Mattahunt Elementary School,4691,123 Alabama St,"Mattapan, MA 02126",K0-6,Elementary,Mattapan,668.0,78.0,4.0,582.0,35.68,85,available
+McKay K-8 School,4360,122 Cottage St,"East Boston, MA 02128",K1-8,Elementary,East Boston,614.0,107.0,3.0,596.0,18.84,86,available
+Melvin H. King Elementary School and Melvin H. King South End Academy,1291,90 Warren Ave,"Back Bay, MA 02116","K1-5, 6-12",Elementary,South End,236.0,12.0,1.0,68.0,,87,available
+Melvin H. King Middle School,1292,50 St Mary St,"Fenway, MA 02215",6-8,Secondary,Fenway/Kenmore,44.0,34.0,1.0,,,88,available
+Melvin H. King Prep High School,1293,97 Peterborough St,"Fenway, MA 02215",7-12,Secondary,Fenway/Kenmore,40.0,73.0,0.0,11.0,,89,available
+Mendell Elementary School,4370,164 School St,"Roxbury, MA 02119",K0-6,Elementary,Roxbury,185.0,164.0,0.0,312.0,22.52,90,available
+Mildred Avenue K-8 School,4671,5 Mildred Ave,"Mattapan, MA 02126",K0-8,Elementary,Mattapan,734.0,83.0,2.0,560.0,24.44,91,available
+Mozart Elementary School,4082,236 Beech St,"Roslindale, MA 02131",K0-6,Elementary,Roslindale,130.0,127.0,0.0,155.0,16.4,92,available
+Murphy K-8 School,4400,1 Worrell St,"Dorchester, MA 02122",K0-8,Elementary,Dorchester,928.0,92.0,4.0,835.0,22.2,93,available
+New Mission High School,1285,655 Metropolitan Avenue,"Hyde Park, MA 02136",7-12,Secondary,Hyde Park,948.0,70.0,3.0,745.0,30.94,94,available
+O'Bryant School of Math & Science,1030,55 Malcolm X Blvd,"Roxbury, MA 02120",7-12,Secondary,Roxbury,1484.0,104.0,1.0,1527.0,18.88,95,available
+O'Donnell Elementary School,4543,33 Trenton St,"East Boston, MA 02128",K1-6,Elementary,East Boston,174.0,153.0,3.0,251.0,30.56,96,available
+Ohrenberger School (3-8),4410,175 W Boundary Rd,"West Roxbury, MA 02132",3-8,Elementary,West Roxbury,540.0,87.0,3.0,464.0,27.24,97,available
+Orchard Gardens K-8 School,4680,906 Albany St,"Roxbury, MA 02119",K0-8,Elementary,Roxbury,944.0,76.0,4.0,720.0,27.34,98,available
+Otis Elementary School,4322,218 Marion St,"East Boston, MA 02128",K1-6,Elementary,East Boston,333.0,124.0,0.0,417.0,15.8,99,available
+Perkins Elementary School,4022,50 Rev Burke St,"South Boston, MA 02127",K0-6,Elementary,South Boston,204.0,83.0,1.0,202.0,43.4,100,available
+Perry Elementary School,4592,745 E Seventh St,"South Boston, MA 02127",K0-6,Elementary,South Boston,169.0,118.0,2.0,233.0,23.38,101,available
+Quincy Elementary School,4650,885 Washington St,"South End, MA 02111",K0-5,Elementary,Downtown,785.0,94.0,3.0,721.0,8.68,102,available
+Roosevelt K-8 School (2-8),4192,95 Needham Rd,"Hyde Park, MA 02136",2-8,Elementary,Hyde Park,260.0,99.0,1.0,266.0,23.88,103,available
+Roosevelt K-8 School (K1-1),4193,30 Millstone Rd,"Hyde Park, MA 02136",K0-1,Elementary,Hyde Park,94.0,119.0,3.0,112.0,23.88,104,available
+Russell Elementary School,4530,750 Columbia Rd,"Dorchester, MA 02125",K0-5,Elementary,Dorchester,415.0,86.0,1.0,336.0,31.86,105,available
+Ruth Batson Academy,1194,315 Mt Vernon St,"Dorchester, MA 02125",7-12,Secondary,Dorchester,556.0,87.0,2.0,592.0,50.22,106,available
+Sarah Roberts Elementary School,4563,105 Cummins Hwy,"Roslindale, MA 02131",K0-6,Elementary,Roslindale,755.0,91.0,,688.0,,107,available
+Shaw-Taylor Elementary (2-6),4151,1060 Morton St,"Mattapan, MA 02126",2-6,Elementary,Mattapan,397.0,83.0,2.0,296.0,23.1,108,available
+Shaw-Taylor Elementary (K1-1),4670,429 Norfolk St,"Dorchester, MA 02124",K1-1,Elementary,Dorchester,219.0,84.0,1.0,170.0,43.68,109,available
+Snowden International High School,1200,140 Clarendon St,"Back Bay, MA 02116",9-12,Secondary,Back Bay/Beacon Hill,227.0,182.0,0.0,439.0,59.66,110,available
+TechBoston Academy,1460,9 Peacevale Rd,"Dorchester, MA 02124",7-12,Secondary,Dorchester,1037.0,85.0,3.0,870.0,51.42,111,available
+Tobin K-8 School,4570,40 Smith St,"Roxbury, MA 02120",K0-8,Elementary,Mission Hill /Jamaica Plain,405.0,96.0,2.0,354.0,37.38,112,available
+Trotter Elementary School,4580,135 Humboldt Ave,"Dorchester, MA 02121",K0-6,Elementary,Roxbury,577.0,58.0,3.0,364.0,41.9,113,available
+Tynan Elementary School,4590,650 E Fourth St,"South Boston, MA 02127",K0-6,Elementary,South Boston,297.0,72.0,3.0,221.0,43.52,114,available
+UP Academy Dorchester,4345,35 Westville St 02124,"Dorchester, MA 02121",K1-8,Elementary,Dorchester,743.0,84.0,3.0,650.0,,115,available
+UP Academy Holland,4250,85 Olney St,"Dorchester, MA 02121",K1-6,Elementary,Dorchester,627.0,101.0,3.0,632.0,38.7,116,available
+Warren-Prescott K-8 School,4283,50 School St,"Charlestown, MA 02129",K0-8,Elementary,Charlestown,539.0,97.0,1.0,547.0,11.72,117,available
+Winship Elementary School,4173,54 Dighton St,"Brighton, MA 02135",K0-6,Elementary,Allston/Brighton,159.0,208.0,1.0,350.0,20.3,118,available
+Winthrop Elementary School,4052,35 Brookford St,"Dorchester, MA 02125",K0-6,Elementary,Roxbury,206.0,116.0,2.0,259.0,45.5,119,available
+Young Achievers K-8 School,4600,20 Outlook Rd,"Mattapan, MA 02126",K0-8,Elementary,Mattapan,470.0,105.0,1.0,432.0,49.3,120,available
